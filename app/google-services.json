@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "115866204714",
+    "firebase_url": "https://istebenimstilim-d6f3c.firebaseio.com",
+    "project_id": "istebenimstilim-d6f3c",
+    "storage_bucket": "istebenimstilim-d6f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115866204714:android:1e2a65464a0d359a",
+        "android_client_info": {
+          "package_name": "com.meltemyilmaz.gelecegiyazanlar.istebenimstilim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115866204714-c16o6u0jkk5mnd04p9h6ktqd539fn7br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6iuGuhFmVSjdSFJNUqzlc_qfavsWpyVg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

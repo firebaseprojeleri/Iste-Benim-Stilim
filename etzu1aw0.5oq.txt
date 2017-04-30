@@ -1,0 +1,108 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   .idea/compiler.xml
+#	new file:   .idea/copyright/profiles_settings.xml
+#	new file:   .idea/gradle.xml
+#	new file:   .idea/misc.xml
+#	new file:   .idea/modules.xml
+#	new file:   .idea/runConfigurations.xml
+#	new file:   Screenshots/0-IsteBenimStilim Firebase.PNG
+#	new file:   Screenshots/1-Firebase Storage.PNG
+#	new file:   Screenshots/3-Storage Posts.PNG
+#	new file:   Screenshots/4-User Information.PNG
+#	new file:   Screenshots/Screenshot_1.png
+#	new file:   Screenshots/Screenshot_2.png
+#	new file:   Screenshots/Screenshot_3.png
+#	new file:   app/.gitignore
+#	new file:   app/build.gradle
+#	new file:   app/google-services.json
+#	new file:   app/proguard-rules.pro
+#	new file:   app/src/androidTest/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/ExampleInstrumentedTest.java
+#	new file:   app/src/main/AndroidManifest.xml
+#	new file:   app/src/main/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/BaseImage.java
+#	new file:   app/src/main/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/ImagesActivity.java
+#	new file:   app/src/main/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/LoginActivity.java
+#	new file:   app/src/main/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/MainActivity.java
+#	new file:   app/src/main/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/NewImageActivity.java
+#	new file:   app/src/main/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/RegisterActivity.java
+#	new file:   app/src/main/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/ShowImagesActivity.java
+#	new file:   app/src/main/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/User.java
+#	new file:   app/src/main/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/UserInfoActivity.java
+#	new file:   app/src/main/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/UserInfoModel.java
+#	new file:   app/src/main/res/drawable-hdpi/ic_check_white_24.png
+#	new file:   app/src/main/res/drawable-hdpi/ic_cloud_image.png
+#	new file:   app/src/main/res/drawable-hdpi/ic_error_white_24dp.png
+#	new file:   app/src/main/res/drawable-hdpi/ic_file_upload_white_24dp.png
+#	new file:   app/src/main/res/drawable-hdpi/ic_launcher.png
+#	new file:   app/src/main/res/drawable-hdpi/ic_new_user.png
+#	new file:   app/src/main/res/drawable-hdpi/ic_profile.png
+#	new file:   app/src/main/res/drawable-hdpi/ic_upload_image.png
+#	new file:   app/src/main/res/drawable-mdpi/ic_check_white_24.png
+#	new file:   app/src/main/res/drawable-mdpi/ic_cloud_image.png
+#	new file:   app/src/main/res/drawable-mdpi/ic_error_white_24dp.png
+#	new file:   app/src/main/res/drawable-mdpi/ic_file_upload_white_24dp.png
+#	new file:   app/src/main/res/drawable-mdpi/ic_launcher.png
+#	new file:   app/src/main/res/drawable-mdpi/ic_new_user.png
+#	new file:   app/src/main/res/drawable-mdpi/ic_profile.png
+#	new file:   app/src/main/res/drawable-mdpi/ic_upload_image.png
+#	new file:   app/src/main/res/drawable-xhdpi/ic_check_white_24.png
+#	new file:   app/src/main/res/drawable-xhdpi/ic_cloud_image.png
+#	new file:   app/src/main/res/drawable-xhdpi/ic_error_white_24dp.png
+#	new file:   app/src/main/res/drawable-xhdpi/ic_file_upload_white_24dp.png
+#	new file:   app/src/main/res/drawable-xhdpi/ic_launcher.png
+#	new file:   app/src/main/res/drawable-xhdpi/ic_new_user.png
+#	new file:   app/src/main/res/drawable-xhdpi/ic_profile.png
+#	new file:   app/src/main/res/drawable-xhdpi/ic_upload_image.png
+#	new file:   app/src/main/res/drawable-xxhdpi/ic_check_white_24.png
+#	new file:   app/src/main/res/drawable-xxhdpi/ic_cloud_image.png
+#	new file:   app/src/main/res/drawable-xxhdpi/ic_error_white_24dp.png
+#	new file:   app/src/main/res/drawable-xxhdpi/ic_file_upload_white_24dp.png
+#	new file:   app/src/main/res/drawable-xxhdpi/ic_launcher.png
+#	new file:   app/src/main/res/drawable-xxhdpi/ic_new_user.png
+#	new file:   app/src/main/res/drawable-xxhdpi/ic_profile.png
+#	new file:   app/src/main/res/drawable-xxhdpi/ic_upload_image.png
+#	new file:   app/src/main/res/drawable-xxxhdpi/ic_check_white_24.png
+#	new file:   app/src/main/res/drawable-xxxhdpi/ic_error_white_24dp.png
+#	new file:   app/src/main/res/drawable-xxxhdpi/ic_file_upload_white_24dp.png
+#	new file:   app/src/main/res/drawable-xxxhdpi/ic_launcher.png
+#	new file:   app/src/main/res/drawable-xxxhdpi/ic_new_user.png
+#	new file:   app/src/main/res/drawable-xxxhdpi/ic_profile.png
+#	new file:   app/src/main/res/layout/activity_images.xml
+#	new file:   app/src/main/res/layout/activity_login.xml
+#	new file:   app/src/main/res/layout/activity_main.xml
+#	new file:   app/src/main/res/layout/activity_new_image.xml
+#	new file:   app/src/main/res/layout/activity_register.xml
+#	new file:   app/src/main/res/layout/activity_show_images.xml
+#	new file:   app/src/main/res/layout/activity_user_info.xml
+#	new file:   app/src/main/res/layout/list_item.xml
+#	new file:   app/src/main/res/menu/main.xml
+#	new file:   app/src/main/res/mipmap-hdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+#	new file:   app/src/main/res/mipmap-mdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+#	new file:   app/src/main/res/mipmap-xhdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+#	new file:   app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+#	new file:   app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+#	new file:   app/src/main/res/values/colors.xml
+#	new file:   app/src/main/res/values/dimens.xml
+#	new file:   app/src/main/res/values/strings.xml
+#	new file:   app/src/main/res/values/styles.xml
+#	new file:   app/src/test/java/com/meltemyilmaz/gelecegiyazanlar/istebenimstilim/ExampleUnitTest.java
+#	new file:   build.gradle
+#	new file:   gradle.properties
+#	new file:   gradle/wrapper/gradle-wrapper.jar
+#	new file:   gradle/wrapper/gradle-wrapper.properties
+#	new file:   gradlew
+#	new file:   gradlew.bat
+#	new file:   settings.gradle
+#
+
